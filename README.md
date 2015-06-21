@@ -1,2 +1,3 @@
 # helloGit
 My first try to use git
+I have to edit something...
